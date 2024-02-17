@@ -1,0 +1,13 @@
+.end{
+    margin-left: 700px;
+}
+.STYLE{
+    background-color: chocolate;
+    color: white;
+    border: none;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
